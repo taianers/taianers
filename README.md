@@ -23,11 +23,12 @@
 
 <br>
 
-## Meus hobbies favoritos
+### Meus hobbies favoritos
 
 - :headphones: Podcast e Músicas
 - :books: Leitura
 - :coffee: Café
+- :computer: Codar
 - :fries: Séries e animes
 - :airplane: Viagens
 - :video_game: Games
@@ -37,14 +38,18 @@
 ### Linguages e tecnologias que eu estudo
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?style=flat&logo=mysql)
-![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
-
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
 
 ### Linguagens e tecnologias que eu quero aprender
@@ -52,7 +57,7 @@
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 
-![C#](https://img.shields.io/badge/-C#-555555?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-Cs-555555?style=flat&logo=cs)
 
 ---
 
