@@ -55,7 +55,8 @@
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 
-![C#](https://img.shields.io/badge/-Csharp-555555?style=flat&logo=csharp)
+![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
+![C#](https://img.shields.io/badge/-C#-555555?style=flat&logo=csharp)
 
 ---
 
