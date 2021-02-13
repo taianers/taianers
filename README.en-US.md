@@ -4,8 +4,6 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width = 200/>
 
-## My favorite hobbies
-
 ---
 
 - 🎓Computer science student at UFLA (Brazil)
@@ -43,7 +41,6 @@
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?style=flat&logo=mysql)
-
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
@@ -53,7 +50,7 @@
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 
-![C#](https://img.shields.io/badge/-C#-555555?style=flat&logo=c#)
+![C#](https://img.shields.io/badge/-C#-555555?style=flat&logo=csharp)
 
 ---
 
@@ -62,5 +59,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=taianers&show_icons=true&theme=blueberry)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taianers&layout=compact&theme=blueberry)
-
-[PT](https://github.com/taianers/GustavoRFS/blob/main/README.md) | EN
