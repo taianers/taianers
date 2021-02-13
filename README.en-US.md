@@ -35,18 +35,18 @@
 
 ### Languages and technologies that I study
 
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?style=flat&logo=mysql)
 
-![HTML5](https://img.shields.io/badge/-Html-555555?style=flat&logo=c%2B%2B)
-![CSS](https://img.shields.io/badge/-Css-555555?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### Languages and technologies I want to learn
 
@@ -54,7 +54,7 @@
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 
 ![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
-![C#](https://img.shields.io/badge/-C#-555555?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c%2B%2B)
 
 ---
 
