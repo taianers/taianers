@@ -54,6 +54,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 ---

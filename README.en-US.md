@@ -50,9 +50,10 @@
 
 ### Languages and technologies I want to learn
 
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 ---
 
