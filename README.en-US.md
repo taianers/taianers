@@ -36,24 +36,29 @@
 ### Languages and technologies that I study
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
-![Vue.JS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
 
 ### Languages and technologies I want to learn
 
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 ---
 
