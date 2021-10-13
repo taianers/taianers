@@ -58,6 +58,7 @@
 ### Linguagens e tecnologias que eu quero aprender
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
