@@ -38,7 +38,7 @@
 ### Linguages e tecnologias que eu estudo
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
@@ -49,16 +49,17 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
 
 ### Linguagens e tecnologias que eu quero aprender
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
 ---
 
