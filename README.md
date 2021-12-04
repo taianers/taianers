@@ -37,12 +37,14 @@
 
 ### Linguagens e tecnologias que eu estudo
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
