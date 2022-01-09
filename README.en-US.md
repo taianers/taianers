@@ -58,6 +58,7 @@
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
